@@ -1,10 +1,9 @@
-package com.example.hallucinator
+package com.example.encoder_decoder_app
 
 
 import android.graphics.Bitmap
 import android.graphics.Color
 import android.os.Bundle
-import android.util.Log
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView

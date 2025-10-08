@@ -1,4 +1,4 @@
-package com.example.hallucinator
+package com.example.encoder_decoder_app
 
 import android.graphics.Bitmap
 import android.graphics.ImageDecoder

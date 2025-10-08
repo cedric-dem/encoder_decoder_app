@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.hallucinator"
+    namespace = "com.example.encoder_decoder_app"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.hallucinator"
+        applicationId = "com.example.encoder_decoder_app"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

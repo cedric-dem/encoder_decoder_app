@@ -1,4 +1,4 @@
-package com.example.hallucinator
+package com.example.encoder_decoder_app
 
 import android.graphics.Bitmap
 import android.graphics.Color
@@ -78,6 +78,7 @@ class EncoderAndDecoderActivity : AppCompatActivity() {
         outputPreview = findViewById(R.id.image_decoder_output)
         selectImageButton = findViewById(R.id.button_select_image)
         applyModelButton = findViewById(R.id.button_apply_model)
+        //TODO : add loss text
         statusText = findViewById(R.id.text_status)
 
         selectImageButton.setOnClickListener { selectImageLauncher.launch("image/*") }

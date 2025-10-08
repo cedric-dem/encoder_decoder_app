@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Hallucinator"
+rootProject.name = "encoder_decoder_app"
 include(":app")
  
